@@ -27,7 +27,16 @@ Focus: Applying Python to real-world data scenarios.
 - Sensor data validation  
 - Email domain analysis  
 - Sales spike detection  
-- Duplicate user ID detection  
+- Duplicate user ID detection
+
+## Functions with Loops – Task 4
+This repository contains solutions for:
+Mobile Recharge Validation System
+Inventory Reorder Alert
+Student Result Processing
+Cab Fare Estimator
+Attendance Eligibility Checker
+Password Strength Checker
 
 ## 🛠️ Technologies Used
 - Python  
